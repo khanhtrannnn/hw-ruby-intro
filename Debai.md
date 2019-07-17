@@ -11,7 +11,7 @@ it should return zero. For an array with just one element, it should return that
 Define a method sum_to_n?(array, n) that takes an array of integers and 
 an additional integer, n, as arguments and returns true if any two elements
 in the array of integers sum to n. sum_to_n?([], n) should return false for any value of n, by definition.
-
+haha
 You can check your progress by running rspec spec/part1_spec.rb, or just
 running autotest and leaving it running.
 
